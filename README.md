@@ -1,1 +1,1 @@
-# fumante-predicao
+# Predição de fumante: modelo de ANN
